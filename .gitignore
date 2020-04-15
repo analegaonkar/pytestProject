@@ -1,0 +1,4 @@
+.idea/
+.git/
+
+**/tester/test_cases/__pycache__
